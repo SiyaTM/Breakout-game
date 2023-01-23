@@ -3,7 +3,7 @@
 The breakout game formed a big part of many childrens lives. 
 This is a time when games were mean't to be enjoyed, Arcade style. 
 
-The programming langauge used was Javascript. 
+JavaScript is used as the programming language.
 
 The coding concepts used were as follows:
 .querySelector()
